@@ -1,0 +1,10 @@
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\bin\Debug\aura.exe.config
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\bin\Debug\aura.exe
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\bin\Debug\aura.pdb
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\aura.csprojAssemblyReference.cache
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\Interop.AuraServiceLib.dll
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\aura.csproj.ResolveComReference.cache
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\aura.csproj.CoreCompileInputs.cache
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\aura.exe
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\aura.pdb
+C:\Users\Aharon and Shmuel\source\repos\aura\aura\obj\Debug\Interop.AsRogAuraServiceLib.dll

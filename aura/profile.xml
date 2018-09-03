@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <header>ASUS_AURA</header>
+  <version>1.1</version>
+  <funcid>4</funcid>
+  <device key="Group">
+    <scene>
+      <state>S0</state>
+      <mode key="1">
+        <iscolorsynced>0</iscolorsynced>
+        <singlecolor>0</singlecolor>
+        <led key="0">
+          <color>16777215</color>
+          <hue>0</hue>
+          <saturation>1</saturation>
+          <lightness>0.5</lightness>
+          <speed>na</speed>
+          <direction>na</direction>
+          <hashue2>0</hashue2>
+          <hue2>0.0</hue2>
+        </led>
+        <led key="1">
+          <color>16777215</color>
+          <hue>0.166667</hue>
+          <saturation>1</saturation>
+          <lightness>0.5</lightness>
+          <speed>na</speed>
+          <direction>na</direction>
+          <hashue2>0</hashue2>
+          <hue2>0.0</hue2>
+        </led>
+        <led key="2">
+          <color>16777215</color>
+          <hue>0.333334</hue>
+          <saturation>1</saturation>
+          <lightness>0.5</lightness>
+          <speed>na</speed>
+          <direction>na</direction>
+          <hashue2>0</hashue2>
+          <hue2>0.0</hue2>
+        </led>
+        <led key="3">
+          <color>16777215</color>
+          <hue>0.666667</hue>
+          <saturation>1</saturation>
+          <lightness>0.5</lightness>
+          <speed>na</speed>
+          <direction>na</direction>
+          <hashue2>0</hashue2>
+          <hue2>0.0</hue2>
+        </led>
+      </mode>
+    </scene>
+  </device>
+</root>
