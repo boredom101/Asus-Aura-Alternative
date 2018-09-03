@@ -13,7 +13,7 @@ namespace aura
     {
         static void Main(string[] args)
         {
-            var xml = System.IO.File.ReadAllText("profile.xml");
+            var xml = System.IO.File.ReadAllText(args[0]);
             Console.WriteLine(xml);
 
             var test = new AuraSdkManager();
